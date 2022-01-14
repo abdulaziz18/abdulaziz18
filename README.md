@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is ### Abdulaziz Ansari - a web programmer from Hyderabad, Pakistan.
+My name is Abdulaziz Ansari - a web programmer from Hyderabad, Pakistan.
 <!--
 **abdulaziz18/abdulaziz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
