@@ -6,8 +6,9 @@ My name is Abdulaziz Ansari - a web programmer from Hyderabad, Pakistan.
 -->
 Here are some ideas to know more about me :
 
-- 🔭 I’m currently working on HTML,CSS,JavaScript,jQuery,Ajax,JSON,PHP,MySQL,Codeigniter.
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on SaaS Application
+- 🌱 I’m currently learning Front End Development (reactJS)
+- 🤔 My Field of Expertise is Web Development.
 - 👯 I’m looking to collaborate on different open source project related to my field.
 - 💬 Ask me about anything you like to know.
 - 📫 How to reach me: whatsapp : +92 3048395775
