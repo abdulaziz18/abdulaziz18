@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+My name is ### Abdulaziz Ansari - a web programmer from Hyderabad, Pakistan.
 <!--
 **abdulaziz18/abdulaziz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+Here are some ideas to know more about me :
 
 - 🔭 I’m currently working on HTML,CSS,JavaScript,jQuery,Ajax,JSON,PHP,MySQL,Codeigniter.
 - 🌱 I’m currently learning ReactJS
